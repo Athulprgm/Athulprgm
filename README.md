@@ -2,69 +2,99 @@
 
 # ATHUL KRISHNA
 
-### Python Developer · Software Developer · Tech Enthusiast
+### Python Developer · Software Engineer · Tech Enthusiast
 
 Building ideas into practical digital experiences.
 
-<p>
-  <a href="https://github.com/Athulprgm">
-    <img src="https://img.shields.io/github/followers/Athulprgm?label=Followers&style=flat-square&color=6366f1&labelColor=0d1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Athulprgm&style=flat-square&color=6366f1&label=Profile+Views" />
-</p>
+<br/>
+
+<a href="https://github.com/Athulprgm">
+  <img src="https://img.shields.io/badge/GitHub-Athulprgm-181717?style=flat-square&logo=github" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Athulprgm&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+[About](#about) · [Tech Stack](#tech-stack) · [Statistics](#github-statistics) · [Connect](#connect)
 
 </div>
 
 ---
 
-## About Me
+## 01 / ABOUT
 
-I'm a Computer Science enthusiast passionate about programming, software development, and technology.
+I'm **Athul Krishna**, a Computer Science student and Python developer passionate about software engineering and technology.
 
-- 🎓 Computer Science Graduate
-- 🐍 Exploring Python and its ecosystem
-- 💻 Interested in building practical software solutions
-- 🌱 Continuously learning and improving my development skills
+I enjoy exploring new technologies, solving problems, and developing software that makes a difference.
+
+- 🎓 Computer Science background
+- 🐍 Focused on Python development
+- 💻 Interested in software engineering
+- 🌱 Continuously learning and experimenting
 - 🤝 Open to collaboration and interesting projects
 
 ---
 
-## Tech Stack
+## 02 / TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 03 / GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Athulprgm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=2dd4bf&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Athulprgm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulprgm&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulprgm&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Athulprgm&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 04 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Athulprgm&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 05 / CONNECT
+
+<div align="center">
+
+Interested in technology, open-source development, or building something meaningful?
+
+Let's connect.
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Athulprgm&hide_border=true&background=0d1117&ring=818cf8&fire=2dd4bf&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
 <a href="https://github.com/Athulprgm">
-  <img src="https://img.shields.io/badge/GitHub-Athulprgm-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**"Learning. Building. Improving. Repeating."**
+**Building. Learning. Improving.**
+
+<sub>© Athul Krishna · Crafted with passion for technology.</sub>
 
 </div>
