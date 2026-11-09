@@ -1,39 +1,70 @@
 <div align="center">
 
-# Hi, I'm Athul 👋
+# ATHUL KRISHNA
 
-### Computer Science Student · Python Developer
+### Python Developer · Software Developer · Tech Enthusiast
 
-I’m a BSc Computer Science student interested in Python programming and building useful software.
+Building ideas into practical digital experiences.
 
-[![GitHub followers](https://img.shields.io/github/followers/Athulprgm?label=Follow&style=social)](https://github.com/Athulprgm)
-[![Profile views](https://komarev.com/ghpvc/?username=Athulprgm&style=flat&color=blue)](https://github.com/Athulprgm)
+<p>
+  <a href="https://github.com/Athulprgm">
+    <img src="https://img.shields.io/github/followers/Athulprgm?label=Followers&style=flat-square&color=6366f1&labelColor=0d1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Athulprgm&style=flat-square&color=6366f1&label=Profile+Views" />
+</p>
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-- 🎓 Studying **BSc Computer Science**
-- 🐍 Interested in **Python programming**
-- 🌱 Exploring software development and growing my skills one project at a time
-- 🤝 Open to learning, collaboration, and connecting with other developers
+I'm a Computer Science enthusiast passionate about programming, software development, and technology.
 
-## Tech I use
+- 🎓 Computer Science Graduate
+- 🐍 Exploring Python and its ecosystem
+- 💻 Interested in building practical software solutions
+- 🌱 Continuously learning and improving my development skills
+- 🤝 Open to collaboration and interesting projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## GitHub stats
+## Tech Stack
 
 <div align="center">
 
-[![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athulprgm&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/Athulprgm)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athulprgm&layout=compact&hide_border=true&theme=github_dark)](https://github.com/Athulprgm)
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 
 </div>
 
-## Let's connect
+---
 
-Feel free to explore my repositories or [follow me on GitHub](https://github.com/Athulprgm). I’m always happy to learn from the community and collaborate on interesting projects.
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Athulprgm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=2dd4bf&text_color=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athulprgm&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Athulprgm&hide_border=true&background=0d1117&ring=818cf8&fire=2dd4bf&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Athulprgm">
+  <img src="https://img.shields.io/badge/GitHub-Athulprgm-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+**"Learning. Building. Improving. Repeating."**
+
+</div>
